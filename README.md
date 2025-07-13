@@ -1,6 +1,6 @@
-<img width="523" height="415" alt="image" src="https://github.com/user-attachments/assets/b7a84d8a-ce7c-4201-afaa-1c7e6f577051" />
-Guarda Wallet
+## Guarda Wallet
 Guarda Wallet is a secure, non-custodial, multi-platform cryptocurrency wallet supporting over 400,000 digital assets across 50+ blockchains. Available on Web, Desktop, Mobile, and Chrome Extension.
+<img width="523" height="415" alt="image" src="https://github.com/user-attachments/assets/b7a84d8a-ce7c-4201-afaa-1c7e6f577051" />
 
 ## 🌐 Overview
 Guarda Wallet allows users to safely store, manage, exchange, and stake their cryptocurrencies with full control over their private keys. No registration. No third-party custody. You own your crypto.
